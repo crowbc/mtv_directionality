@@ -1,6 +1,6 @@
 # mtv (cloned from Ratpac 2 Example Simulation)
 
-This repository holds the simulation and RATDB files used to create the geometry for the directionality paper titled ["Enhancing Angular Sensitivity of Segmented Antineutrino Detectors for Reactor Monitoring"](https://link.aps.org/doi/10.1103/jrmk-r81s). Data files are too large to host on this repository, but can be made available upon reasonable request to the authors. The RATPAC2 Rat is the template for this repository, and can be accessed [here](https://github.com/rat-pac/RatpacExperiment).
+This repository holds the simulation and RATDB files used to create the geometry for the directionality paper titled ["Enhancing Angular Sensitivity of Segmented Antineutrino Detectors for Reactor Monitoring"](https://link.aps.org/doi/10.1103/jrmk-r81s). Data files are too large to host on this repository, but can be made available upon reasonable request to the authors. The RATPAC2 RatpacExperiment repository is the template for this one, and it can be accessed [here](https://github.com/rat-pac/RatpacExperiment).
 
 ---
 
@@ -9,5 +9,9 @@ The reference data set for the binning matrices used for the directional reconst
 ---
 
 ## Version History:
+
+11JUL2026: v 1.0.1 -- Hotfix 1.
+
+Added MIT License for publication
 
 26JUN2026: v 1.0.0 -- Initial Commit for publication and data availability

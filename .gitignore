@@ -15,3 +15,4 @@ macros/vis_qt_gs_checkerboard.mac
 GS_Checkerboard/**
 ratdb/GS_Checkerboard/**
 output/GS_Checkerboard/**
+output/archive/*
